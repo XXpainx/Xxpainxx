@@ -1,5 +1,5 @@
 {
-    "name": "Abu_ser",
+    "name": "Nezko_ser",
     "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
     "logo": "https://i.imgur.com/OseHc3b.jpg",
     "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "mwol", "bot", "ai"],
@@ -13,13 +13,13 @@
             "required": false
         },
         "NUMBER": {
-            "description": " If you want to add  owner number to your git contact, enter the number here, and be careful not to use + and space when entering the number. Example: 91xxxxxxxxx",
+            "description": " If you want to add  owner number to your git contact, enter the number here, and be careful not to use + and space when entering the number. Example: 9656509460",
             "required": false
         },
         "INSTA_LINK": {
             "description": "Enter Your Insta Link",
             "required": true,
-            "value": "https://instagram.com/jasil_xo"
+            "value": "https://hope_x3_nezko.com/jasil_xo"
         },
         "GROUP_LINK": {
             "description": "Enter Your Group Link",
@@ -49,7 +49,7 @@
         "BOT_NAME": {
             "description": "heading for bgm command reply",
             "required": false,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴀʙᴜ sᴇʀ࿐"
+            "value": "Dundumowl࿐"
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP Name.",
